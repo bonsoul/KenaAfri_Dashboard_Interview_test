@@ -18,7 +18,7 @@ Create a simple dashboard that visualizes sales trends. Use charts and graphs to
 
 Here's a summary and analysis based on the KBBL dashboard provided:
 
-### **Summary of the Dashboard:**
+### **Summary of the Dashboard:** 
 - **Total Sales Quantity:** 2,324,089 units
 - **Total SAP Value:** 8,232,223.88
 - **Number of Products:** 70
