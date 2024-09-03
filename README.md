@@ -2,8 +2,8 @@
 
 I stepped to a certain interview and the technical Interview had this challenge!
 
-Don't ask if I hacked it or not, just check it out for your next opportunity or gig.
-
+Don't ask if I hacked it or not, just check it out for your next opportunity or gig.🤑🤓
+____________________________________________________________________________________________________________________________________________
 ## Questions:
 Summarize the data attached in a presentable format and answer the following questions:
 
@@ -14,11 +14,11 @@ Summarize the data attached in a presentable format and answer the following que
 5. Data Visualization:
 
 Create a simple dashboard that visualizes sales trends. Use charts and graphs to highlight key insights and areas of concern.
-
+____________________________________________________________________________________________________________________________________________
 
 Here's a summary and analysis based on the KBBL dashboard provided:
-
-### **Summary of the Dashboard:** 
+### **Summary of the Dashboard:**
+## ![KBBL Dashboard](https://github.com/user-attachments/assets/cb69e827-99a0-41ac-b860-d63760686668)
 - **Total Sales Quantity:** 2,324,089 units
 - **Total SAP Value:** 8,232,223.88
 - **Number of Products:** 70
